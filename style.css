@@ -1,0 +1,71 @@
+
+span {
+    display: inline-block;
+    padding: 5px;
+    border: 1px solid darkgray;
+  }
+  
+  #one {
+    background-color:lightblue;
+   
+  }
+  
+  #two {
+    background-color: cornflowerblue;
+  }
+  
+  #three {
+    background-color: rgb(187, 189, 243);
+    
+  }
+
+  #icons {
+    background-color: aquamarine;
+    margin: 15px;
+    border: 2px solid salmon;
+  }
+  
+#fontgreat {
+
+    background-color: aquamarine;
+    margin: 15px;
+    border: 2px solid salmon;
+}
+
+#four{
+background-color: bisque;
+}
+
+#pic {
+    border: 2px solid cadetblue;
+    padding-bottom: 5px;
+    padding-top: 10px;
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: blueviolet;
+}
+
+
+body {
+    text-align: center;
+}
+
+
+  div,
+  span {
+    margin: 1px;
+  }
+  
+  span {
+    border: 1px solid #333;
+    padding: 10px 15px;
+  }
+  
+  #pics span,
+  #text span {
+    padding: 25px 30px;
+  }
+  
+  #text span {
+    background-color: white;
+  }
